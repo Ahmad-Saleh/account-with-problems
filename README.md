@@ -1,0 +1,1 @@
+A bank account that supports depositing and withdrawal using different currencies
